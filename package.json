@@ -9,6 +9,8 @@
   "author": "Keith Bonarrigo",
   "license": "ISC",
   "dependencies": {
+    "csv-parse": "^4.10.1",
+    "csv-parser": "^2.3.3",
     "fs": "0.0.1-security",
     "prettify-xml": "^1.2.0"
   }
